@@ -1,7 +1,6 @@
 '''
 Hangman.py
 Diwas Poudel
-Homework 2
 '''
 
 import sys
